@@ -4,7 +4,7 @@ add-apt-repository https://ppa.pika-os.com
 add-apt-repository ppa:pikaos/pika
 add-apt-repository ppa:kubuntu-ppa/backports
 # Clone Upstream
-https://github.com/v1cont/yad
+git clone https://github.com/v1cont/yad
 cp -rvf ./debian ./yad
 cd ./yad
 
