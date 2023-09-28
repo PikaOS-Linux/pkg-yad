@@ -1,3 +1,10 @@
+yad (13.0-99pika1-mantic) mantic; urgency=medium
+
+  * Update to mantic
+
+ -- Jeremy Bicha <jeremy.bicha@canonical.com>  Wed, 09 Mar 2022 18:54:51 -0500
+
+
 yad (12.3-99pika1-lunar) lunar; urgency=medium
 
   * Update to lunar

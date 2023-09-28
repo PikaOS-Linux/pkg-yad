@@ -1,5 +1,5 @@
 # Clone Upstream
-git clone https://github.com/v1cont/yad -b v12.3
+git clone https://github.com/v1cont/yad -b v13.0
 cp -rvf ./debian ./yad
 cd ./yad
 
